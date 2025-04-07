@@ -1,4 +1,4 @@
-import axios, { AxiosResponse } from "axios";
+import { AxiosResponse } from "axios";
 
 // const API_BASE_URL = "https://api.example.com";
 
